@@ -3,4 +3,4 @@ End-to-end machine learning pipeline to predict hospital readmissions using real
 
 Kaggle competetion link: https://www.kaggle.com/competitions/2024-dsa-ise-ida-classification-hw-7/submissions#
 My Team Name : (C) HCOONaH Matata 9
-
+Secured 15th place among 39 competing teams on the leaderboard
