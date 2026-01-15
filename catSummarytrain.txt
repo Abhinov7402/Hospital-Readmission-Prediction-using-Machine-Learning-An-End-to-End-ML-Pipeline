@@ -1,0 +1,36 @@
+
+
+|variable                 |     n| missing| missing_pct| unique| unique_pct| freqRatio|1st mode         | 1st mode freq|2nd mode         | 2nd mode freq|least common    | least common freq|
+|:------------------------|-----:|-------:|-----------:|------:|----------:|---------:|:----------------|-------------:|:----------------|-------------:|:---------------|-----------------:|
+|race                     | 57855|    1313|       2.269|      6|      0.010|      4.07|Caucasian        |         43515|AfricanAmerican  |         10694|Asian           |               389|
+|gender                   | 57855|       0|       0.000|      4|      0.007|      1.16|Female           |         31029|Male             |         26820|Unknown/Invalid |                 1|
+|age                      | 57855|       0|       0.000|     11|      0.019|      1.15|[70-80)          |         14694|[60-70)          |         12796|                |                 1|
+|payer_code               | 57855|   21515|      37.188|      4|      0.007|      1.33|medicare         |         18985|insurance        |         14302|selfpay         |              3053|
+|medical_specialty        | 57855|   27810|      48.068|     70|      0.121|      1.89|InternalMedicine |          8460|Emergency/Trauma |          4468|DCPTEAM         |                 1|
+|diagnosis                | 57855|      11|       0.019|    668|      1.155|      1.03|428              |          3859|414              |          3746|10              |                 1|
+|max_glu_serum            | 57855|       0|       0.000|      4|      0.007|     35.41|None             |         54736|Norm             |          1546|>300            |               725|
+|A1Cresult                | 57855|       0|       0.000|      4|      0.007|     10.23|None             |         48099|>8               |          4701|>7              |              2155|
+|metformin                | 57855|       0|       0.000|      4|      0.007|      4.43|No               |         46445|Steady           |         10478|Down            |               344|
+|repaglinide              | 57855|       0|       0.000|      4|      0.007|     71.20|No               |         56962|Steady           |           800|Down            |                31|
+|nateglinide              | 57855|       0|       0.000|      4|      0.007|    143.58|No               |         57432|Steady           |           400|Down            |                 5|
+|chlorpropamide           | 57855|       0|       0.000|      3|      0.005|   1700.53|No               |         57818|Steady           |            34|Up              |                 3|
+|glimepiride              | 57855|       0|       0.000|      4|      0.007|     19.93|No               |         54814|Steady           |          2750|Down            |               108|
+|acetohexamide            | 57855|       0|       0.000|      2|      0.003|  57854.00|No               |         57854|Steady           |             1|Steady          |                 1|
+|glipizide                | 57855|       0|       0.000|      4|      0.007|      7.63|No               |         50469|Steady           |          6610|Down            |               313|
+|glyburide                | 57855|       0|       0.000|      4|      0.007|     10.28|No               |         52063|Steady           |          5066|Down            |               302|
+|tolbutamide              | 57855|       0|       0.000|      2|      0.003|   3856.00|No               |         57840|Steady           |            15|Steady          |                15|
+|pioglitazone             | 57855|       0|       0.000|      4|      0.007|     13.01|No               |         53531|Steady           |          4114|Down            |                66|
+|rosiglitazone            | 57855|       0|       0.000|      4|      0.007|     15.34|No               |         54166|Steady           |          3530|Down            |                47|
+|acarbose                 | 57855|       0|       0.000|      4|      0.007|    362.81|No               |         57687|Steady           |           159|Down            |                 3|
+|miglitol                 | 57855|       0|       0.000|      4|      0.007|   3213.00|No               |         57834|Steady           |            18|Up              |                 1|
+|troglitazone             | 57855|       0|       0.000|      2|      0.003|  28926.50|No               |         57853|Steady           |             2|Steady          |                 2|
+|tolazamide               | 57855|       0|       0.000|      2|      0.003|   3044.00|No               |         57836|Steady           |            19|Steady          |                19|
+|examide                  | 57855|       0|       0.000|      1|      0.002|      1.00|No               |         57855|No               |         57855|No              |             57855|
+|citoglipton              | 57855|       0|       0.000|      1|      0.002|      1.00|No               |         57855|No               |         57855|No              |             57855|
+|insulin                  | 57855|       0|       0.000|      4|      0.007|      1.47|No               |         26287|Steady           |         17871|Up              |              6572|
+|glyburide.metformin      | 57855|       0|       0.000|      4|      0.007|    137.73|No               |         57432|Steady           |           417|Down            |                 3|
+|glipizide.metformin      | 57855|       0|       0.000|      2|      0.003|   8264.00|No               |         57848|Steady           |             7|Steady          |                 7|
+|glimepiride.pioglitazone | 57855|       0|       0.000|      1|      0.002|      1.00|No               |         57855|No               |         57855|No              |             57855|
+|metformin.rosiglitazone  | 57855|       0|       0.000|      2|      0.003|  28926.50|No               |         57853|Steady           |             2|Steady          |                 2|
+|metformin.pioglitazone   | 57855|       0|       0.000|      2|      0.003|  57854.00|No               |         57854|Steady           |             1|Steady          |                 1|
+|diabetesMed              | 57855|       0|       0.000|      2|      0.003|      3.49|Yes              |         44970|No               |         12885|No              |             12885|
